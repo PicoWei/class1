@@ -1,0 +1,73 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PICO</title>
+    <!-- 引入css -->
+    <link rel="stylesheet" href="./new.css">
+    <!-- 引入瀏覽器縮圖icon -->
+    <link rel="icon" type="image/png" href="./book.png">
+    <!-- grid -->
+
+</head>
+<body class="body">
+    <div class="banner">
+        <h1>About</h1>
+        <h1>作品集</h1>
+        <h1>職涯願景</h1>
+    </div>
+
+    <!-- 第一塊 -->
+    <div class="pic">
+        <img src="https://picsum.photos/500/300?random=10" auto 50%>
+        <div class="text">
+            <h1 class="h1">這張圖片</h1>
+            <small>超級漂亮的欸超級漂亮的欸超級漂亮的欸
+                超級漂亮的欸超級漂亮的欸超級漂亮的欸超級漂亮的欸
+                超級漂亮的欸超級漂亮的欸超級漂亮的欸超級漂亮的欸
+                超級漂亮的欸超級漂亮的欸超級漂亮的欸超級漂亮的欸
+                超級漂亮的欸超級漂亮的欸超級漂亮的欸超級漂亮的欸
+                超級漂亮的欸超級漂亮的欸超級漂亮的欸超級漂亮的欸
+                超級漂亮的欸超級漂亮的欸超級漂亮的欸超級漂亮的欸
+            </small>
+        </div>
+    </div>
+    <!-- 第二塊 -->
+    <div class="pic">
+        <div class="text">
+            <h1 class="h1">這張圖片</h1>
+            <small>超級漂亮的欸超級漂亮的欸超級漂亮的欸
+                超級漂亮的欸超級漂亮的欸超級漂亮的欸超級漂亮的欸
+                超級漂亮的欸超級漂亮的欸超級漂亮的欸超級漂亮的欸
+                超級漂亮的欸超級漂亮的欸超級漂亮的欸超級漂亮的欸
+                超級漂亮的欸超級漂亮的欸超級漂亮的欸超級漂亮的欸
+                超級漂亮的欸超級漂亮的欸超級漂亮的欸超級漂亮的欸
+                超級漂亮的欸超級漂亮的欸超級漂亮的欸超級漂亮的欸
+            </small>
+        </div>
+        <img src="https://picsum.photos/400/300?random=10" auto 50%>
+    </div>
+        <!-- 第三塊 -->
+        <div class="pic">
+            <img src="https://picsum.photos/400/300?random=10" auto 50%>
+            <div class="text">
+                <h1 class="h1">這張圖片</h1>
+                <small>超級漂亮的欸超級漂亮的欸超級漂亮的欸
+                    超級漂亮的欸超級漂亮的欸超級漂亮的欸超級漂亮的欸
+                    超級漂亮的欸超級漂亮的欸超級漂亮的欸超級漂亮的欸
+                    超級漂亮的欸超級漂亮的欸超級漂亮的欸超級漂亮的欸
+                    超級漂亮的欸超級漂亮的欸超級漂亮的欸超級漂亮的欸
+                    超級漂亮的欸超級漂亮的欸超級漂亮的欸超級漂亮的欸
+                    超級漂亮的欸超級漂亮的欸超級漂亮的欸超級漂亮的欸
+                </small>
+            </div>
+        </div>
+</body>
+</html>
+
+    <!-- <div class="line">
+    line
+    <div class="red-point">
+        10
+    </div> -->
